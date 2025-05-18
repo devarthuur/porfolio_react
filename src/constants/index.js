@@ -105,11 +105,7 @@ export const myProjects = [
                 name: "Em construção...",
                 path: "",
             },
-            {
-                id: 4,
-                name: "Em construção...",
-                path: "",
-            },
+           
         ],
     },
     {
@@ -139,11 +135,7 @@ export const myProjects = [
                 name: "Em construção...",
                 path: "",
             },
-            {
-                id: 4,
-                name: "Em construção...",
-                path: "",
-            },
+           
         ],
     },
     {
@@ -173,11 +165,7 @@ export const myProjects = [
                 name: "Em construção...",
                 path: "",
             },
-            {
-                id: 4,
-                name: "Em construção...",
-                path: "",
-            },
+            
         ],
     },
 ];
