@@ -15,7 +15,7 @@ const Hero = () => {
     const astronautPosition = isMobile ? [0, -1.5, 0] : [1.3, -1.5, 0];
   const astronautScale = isMobile ? 0.23 : 0.23;
     return (
-        <section className="flex items-start justify-center md:items-start md:justify-start min-h-screen overflow-hidden c-space">
+        <section className="flex items-start justify-center md:items-start md:justify-start min-h-screen overflow-hidden c-space" id="home">
             <HeroText />
             <ParallaxBackground />
             <figure className="absolute inset-0" style={{ width: "100vw", height: "100vh" }}

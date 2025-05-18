@@ -7,7 +7,7 @@ export const myProjects = [
         subDescription: [
 
         ],
-        href: "",
+        href: "https://flow-dev-nine.vercel.app/landing",
         logo: "",
         image: "/assets/projects/Flowdev.jpg",
         tags: [
